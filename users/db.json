@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Bill",
+      "age": 35,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstName": "Ashely",
+      "age": 26,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Jenna",
+      "age": 27,
+      "companyId": "3"
+    },
+    {
+      "id": "26",
+      "firstName": "Sam",
+      "age": 50,
+      "companyId": "4"
+    },
+    {
+      "id": "27",
+      "firstName": "Tom",
+      "age": 40,
+      "companyId": "5"
+    },
+    {
+      "id": "28",
+      "firstName": "Bob",
+      "age": 40,
+      "companyId": "1"
+    },
+    {
+      "id": "29",
+      "firstName": "David",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "30",
+      "firstName": "Austin",
+      "age": 40,
+      "companyId": "3"
+    },
+    {
+      "id": "31",
+      "firstName": "Kim",
+      "age": 40,
+      "companyId": "4"
+    },
+    {
+      "id": "32",
+      "firstName": "Amy",
+      "age": 55,
+      "companyId": "5"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Amazon",
+      "description": "online shopping"
+    },
+    {
+      "id": "4",
+      "name": "Facebook",
+      "description": "social"
+    },
+    {
+      "id": "5",
+      "name": "Microsoft",
+      "description": "windows"
+    }
+  ]
+}
